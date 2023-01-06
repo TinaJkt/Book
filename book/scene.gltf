@@ -119,10 +119,7 @@
       "name": "Architexture",
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.800000011920929,
-          0.800000011920929,
-          0.800000011920929,
-          1.0
+         1.000, 0.766, 0.336, 1.0
         ],
         "metallicFactor": 0.0,
         "roughnessFactor": 0.6

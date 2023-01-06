@@ -1,0 +1,384 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3578,
+      "max": [
+        0.11238928139209747,
+        0.13717380166053772,
+        0.009733207523822784
+      ],
+      "min": [
+        -0.11005275696516037,
+        -0.1517842411994934,
+        -0.009300710633397102
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 42936,
+      "componentType": 5126,
+      "count": 3578,
+      "max": [
+        0.9944514036178589,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9962775111198425,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3578,
+      "max": [
+        0.7009016275405884,
+        0.49622610211372375
+      ],
+      "min": [
+        0.00027974898694083095,
+        0.00027974898694083095
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 5568,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 85872,
+      "componentType": 5126,
+      "count": 3628,
+      "max": [
+        0.11299030482769012,
+        0.13717380166053772,
+        0.009339340031147003
+      ],
+      "min": [
+        -0.11001075804233551,
+        -0.1517842411994934,
+        -0.008312704041600227
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 129408,
+      "componentType": 5126,
+      "count": 3628,
+      "max": [
+        0.9994319677352905,
+        1.0,
+        0.10566429048776627
+      ],
+      "min": [
+        -0.9994428753852844,
+        -1.0,
+        -0.10553468018770218
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 28624,
+      "componentType": 5126,
+      "count": 3628,
+      "max": [
+        0.7284280061721802,
+        0.9997202157974243
+      ],
+      "min": [
+        0.00027974898694083095,
+        0.00027974898694083095
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 22272,
+      "componentType": 5125,
+      "count": 5760,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 172944,
+      "componentType": 5126,
+      "count": 7060,
+      "max": [
+        -0.09294971078634262,
+        0.13195374608039856,
+        0.015621183440089226
+      ],
+      "min": [
+        -0.12418772280216217,
+        -0.15007023513317108,
+        -0.015617849305272102
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 257664,
+      "componentType": 5126,
+      "count": 7060,
+      "max": [
+        1.0,
+        0.9921690821647644,
+        0.9999927282333374
+      ],
+      "min": [
+        -0.9999979138374329,
+        -0.9921571612358093,
+        -0.9999926686286926
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 57648,
+      "componentType": 5126,
+      "count": 7060,
+      "max": [
+        0.44136303663253784,
+        0.5134750008583069
+      ],
+      "min": [
+        0.024952519685029984,
+        0.3063283860683441
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 45312,
+      "componentType": 5125,
+      "count": 37176,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Full Barrel Productions (https://sketchfab.com/Full_Barrel_Production)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/spiral-notebook-e803910f62cc40d2a2f5668e657fd1cf",
+      "title": "Spiral Notebook"
+    },
+    "generator": "Sketchfab-14.41.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 194016,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 114128,
+      "byteOffset": 194016,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 342384,
+      "byteOffset": 308144,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 650528,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Spiral_Notebook_Cover",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.107023,
+          0.06301,
+          0.033105,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Pages",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.8,
+          0.8,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.216535
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Chrome_parts",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.8,
+          0.8,
+          1.0
+        ],
+        "roughnessFactor": 0.5
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6
+      ],
+      "name": "Spiral_Notebook_2"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_5"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_6"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
